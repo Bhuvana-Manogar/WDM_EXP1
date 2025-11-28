@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,8 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+Employee Table
+<img width="1232" height="744" alt="image" src="https://github.com/user-attachments/assets/1b213591-ecc4-4eb4-a9c6-972c59245e32" />
 
-
+Weather Table
+<img width="1228" height="743" alt="image" src="https://github.com/user-attachments/assets/ffed4eda-4f9e-4f05-8e38-4a6bec4ce47a" />
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,6 +78,13 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee table after adding new attribute Department:
+<img width="1235" height="741" alt="image" src="https://github.com/user-attachments/assets/15a7eea7-962d-4fee-85ab-dc9f8fc73c8e" />
+
+Weather Table after adding new attribute Season:
+<img width="1225" height="744" alt="image" src="https://github.com/user-attachments/assets/fc2ce33d-6bd0-4d18-b6d8-82f85ac338af" />
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +101,14 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Weather Table after removing attributes Department:
+<img width="1231" height="742" alt="image" src="https://github.com/user-attachments/assets/5a19b40e-3a00-40b0-87d9-a5d055eba627" />
+
+Weather Table after removing attributes Season:
+<img width="1232" height="738" alt="image" src="https://github.com/user-attachments/assets/e8fa23e2-2208-4300-9661-81199d53e0b0" />
+
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +125,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+Employee Table after Normalizing ID, EXP:
+<img width="1229" height="733" alt="image" src="https://github.com/user-attachments/assets/8e246189-6a1e-479c-8c9d-e2178045974c" />
+
+Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+<img width="1232" height="735" alt="image" src="https://github.com/user-attachments/assets/c4b20818-5b95-4233-82ef-e2f7d9008e60" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
